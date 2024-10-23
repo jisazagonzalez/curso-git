@@ -1,5 +1,7 @@
 Hola mundo
 Hola mundo 2
 Commit + add
-
+Nuevos comentarios
+Nuevas tareas
+Nuevas reglas
 Nuevas funcionalidades
